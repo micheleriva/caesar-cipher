@@ -1,3 +1,4 @@
 .stack-work/
 caesar-cipher.cabal
 *~
+.DS_Store
